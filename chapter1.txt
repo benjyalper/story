@@ -1,3 +1,5 @@
 I was waiting for my daughters dance rehearsal to end when suddenly...
 
-//this file is in the working directory which is story. we need to add it to the staging area (git status shows us what is in the staging area- what is untracked and appears in red is in our working directory but not in our staging area yet. git add file name will add the file to the staging area) 
+
+
+
